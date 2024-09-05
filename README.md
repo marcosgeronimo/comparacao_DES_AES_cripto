@@ -1,8 +1,8 @@
 # Comparação_DES_AES_cripto
 
 ####  INTRODUÇÃO
-Vamos comparar dois códigos de criptografia: um usando DES (Data Encryption Standard) muito utilizado ate o ano de 2001, porém ainda presente nos dias de atuais. 
-E outro usando AES (Advanced Encryption Standard), uma atualização iniciada em 2001, para substituição do DES, após o avanço na tecnologia, ainda centenas de milhares seguem sem atualização.
+Vamos comparar dois códigos de criptografia: um usando DES (Data Encryption Standard) muito utilizado ate o ano de 2001, porém ainda bastante presente nos dias de atuais. 
+E o outro usando AES (Advanced Encryption Standard), uma atualização iniciada nos anos 2000, para substituição do DES, após o avanço da tecnologia. Juro a você que ainda existem centenas de milhares sem atualização.
 
 
 #### Abaixo inseri os dois códigos com a mesma funcionalidade para exemplificação.
@@ -12,7 +12,7 @@ E outro usando AES (Advanced Encryption Standard), uma atualização iniciada em
 ![image](https://github.com/user-attachments/assets/ef85bb78-72ec-4fee-9b6f-5823a9d93d6a)
 
 ##### PROBLEMA DE SEGURANÇA 
-Algoritmos DES é considerado inseguro para uso moderno devido ao seu tamanho de chave de 56 bits, que é vulnerável a ataques de força bruta.
+Algoritmos DES é considerado inseguro para uso moderno devido ao seu tamanho de chave de 56 bits, que é vulnerável a ataques de força bruta. (FIQUE LIGADO QUE LOGO LOGO POSTAREI SOBRE ATAQUE DE FORÇA BRUTA)
 
 ##### MODO DE OPERAÇÃO 
 O código não especifica um modo de operação, o que implica que o ECB (Electronic Codebook) está sendo usado, o tornando vulnerável à exposição de padrões.
