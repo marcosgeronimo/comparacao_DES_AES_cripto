@@ -57,7 +57,7 @@ Usar AES com um modo de operação seguro é recomendado para aplicações moder
 ![image](https://github.com/user-attachments/assets/1a845b03-2d0e-4d47-9cfa-823fa8b90bee)
 
 
-##### SUGESTÕES BAIXO
+##### SUGESTÕES ABAIXO
 
 EVITAR DES - Não use DES em novos projetos. Migre para AES ou outros algoritmos modernos.
 
